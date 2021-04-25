@@ -1,0 +1,14 @@
+PLINK v1.90b6.13 64-bit (30 Nov 2019)
+Options in effect:
+  --make-bed
+  --output-chr 26
+  --vcf test_genotype.vcf test_plink
+
+Hostname: sg02
+Working directory: /data/cotton/zhenpingliu/LZP_fiberFullPopulationRNAseq/03express_gene/eQTLgenes_Allstages_340samples/indepent_eQTL/Debug_test
+Start time: Sun Apr 25 21:50:49 2021
+
+Error: -vcf only accepts 1 parameter.
+For more information, try "plink --help <flag name>" or "plink --help | more".
+
+End time: Sun Apr 25 21:50:49 2021

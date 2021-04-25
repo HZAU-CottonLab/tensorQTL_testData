@@ -1,0 +1,14 @@
+[Apr 25 21:51:38] Running TensorQTL: cis-QTL mapping
+  * WARNING: using CPU!
+  * reading phenotypes (test_gene_expression.bed.gz)
+  * reading covariates (covariates.txt)
+cis-QTL mapping: conditionally independent variants
+  * 370 samples
+  * 5/5 significant phenotypes
+  * 23 covariates
+  * 5620 variants
+  * computing independent QTLs
+  Time elapsed: 0.78 min
+done.
+  * writing output
+[Apr 25 21:52:27] Finished mapping
