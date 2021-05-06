@@ -30,7 +30,7 @@
 # change vcf to plink
 plink --make-bed --output-chr 26 -vcf test_genotype.vcf -out test_plink
 # independ eQTL analysis
-python -m tensorqtl test_plink independ_out --covariates  covariates.txt  --cis_output test_cis_permute.txt  --mode cis_independent
+python -m tensorqtl test_plink  test_gene_expression.bed.gz independ_out --covariates  covariates.txt  --cis_output test_cis_permute.txt  --mode cis_independent
 ```
 ## Software version
 ```bash
